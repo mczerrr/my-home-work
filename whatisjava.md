@@ -1,1 +1,2 @@
 apa itu java script
+JavaScript adalah bahasa pemrograman yang sering digunakan dalam pengembangan web. Awalnya dirancang untuk membuat halaman web lebih interaktif dan dinamis, JavaScript kini bisa berjalan di hampir semua perangkat dan digunakan untuk berbagai tujuan termasuk aplikasi web, server, dan bahkan game. JavaScript bekerja di browser sebagai bahasa sisi klien, tetapi juga bisa digunakan di server melalui Node.js.
