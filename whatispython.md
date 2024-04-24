@@ -1,1 +1,2 @@
+testinhg
 Python adalah bahasa pemrograman tingkat tinggi yang dirancang oleh Guido van Rossum dan pertama kali dirilis pada tahun 1991. Python terkenal dengan sintaksnya yang bersih dan mudah dibaca, yang memudahkan pemrograman baik untuk pemula maupun profesional. Bahasa ini mendukung berbagai paradigma pemrograman, termasuk prosedural, objek berorientasi, dan fungsional. Python sangat populer di berbagai bidang aplikasi, seperti pengembangan web, analisis data, pembelajaran mesin, otomasi, dan banyak lagi, berkat perpustakaan yang luas dan komunitas yang aktif.
